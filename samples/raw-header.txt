@@ -1,0 +1,5 @@
+SPF: FAIL
+DKIM: INVALID
+DMARC: FAIL
+Return-Path: <random@unknown-server.info>
+Received: from suspicious-server.net
