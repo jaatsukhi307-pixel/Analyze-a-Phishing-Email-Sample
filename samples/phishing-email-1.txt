@@ -1,0 +1,6 @@
+From: PayPal Support <noreply@secure-paypal-update.com>
+Subject: Immediate Action Required
+
+Your account will be suspended in 24 hours due to suspicious activity.
+Click the link below to verify your information:
+https://paypal.com/security (actual: http://secure-paypal-login-check.net/verify.php)
